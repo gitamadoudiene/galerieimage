@@ -27,7 +27,7 @@ const App: React.FC = () => {
             per_page: 10,
           },
           headers: {
-            Authorization: 'ohrDJooiZ9KxRRCas8qwvEXkWjo6wiLuywvRsnIBjKmZLMu7jQxGcpI0'
+            Authorization: 'MyKey'
         },
         });
         setState({
